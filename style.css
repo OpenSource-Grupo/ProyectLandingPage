@@ -169,6 +169,7 @@ header a:hover{
     align-items: center;
     justify-content:space-around;
     border-radius: 10px;
+    margin-bottom: 25px;
 }
 .toggle-buttons button{
     background: transparent;
