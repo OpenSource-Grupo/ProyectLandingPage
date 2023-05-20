@@ -364,6 +364,7 @@ footer .icons ion-icon{
 
     footer .container{
         flex-direction: row;
+        justify-content: space-evenly;
     }
 
 }
